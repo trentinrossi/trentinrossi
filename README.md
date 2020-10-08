@@ -21,7 +21,7 @@ You can use the website to generate badges: https://shields.io/
 
 - 👨‍🎓 Graduated in Analysis and Systems Development;
 - 🧑‍🎓 POS undergraduate specialization in Java technology in progress;
-- 🧑‍💼 I’m currently working on [Prisma](https://prismainformatica.com.br);
+- 🧑‍💼 I’m currently working on [LinkApi](https://www.linkapi.solutions/);
 - 🌱 I’m currently learning Node.js, API's integration and English;
 - 💬 Ask me about anything, I am happy to help;
 
