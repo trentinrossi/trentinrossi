@@ -20,8 +20,8 @@ You can use the website to generate badges: https://shields.io/
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 👨‍🎓 Graduated in Analysis and Systems Development;
-- 🧑‍🎓 POS undergraduate specialization in Java technology in progress;
-- 🧑‍💼 I’m currently working on [LinkApi](https://www.linkapi.solutions/);
+- 🧑‍🎓 Postgraduate specialization in Java technology;
+- 🧑‍💼 I’m Integration Engineer on [LinkApi](https://www.linkapi.solutions/);
 - 🌱 I’m currently learning Node.js, API's integration and English;
 - 💬 Ask me about anything, I am happy to help;
 
