@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, I'm Rodrigo Rossi, a FullStack & Mobile Developer 🚀 from Brazil.
+## Hi, I'm Rodrigo Rossi, a Software Architect 🚀 from Brazil.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -21,8 +21,8 @@ You can use the website to generate badges: https://shields.io/
 
 - 👨‍🎓 Graduated in Analysis and Systems Development;
 - 🎓 Postgraduate specialization in Java technology;
-- 💼 I’m Integration Engineer on [LinkApi](https://www.linkapi.solutions/);
-- 🌱 I’m currently learning Node.js, API's integration and English;
+- 💼 I’m Software Architect on [Senior Sistemas](https://www.senior.com.br/);
+- 🌱 I’m currently learning microservices, API's integration and English;
 - 💬 Ask me about anything, I am happy to help;
 
 **Languages and Tools:** 
