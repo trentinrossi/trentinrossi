@@ -9,7 +9,7 @@ You can use the website to generate badges: https://shields.io/
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigorossi/inst)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/rossiorodrigo/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rdrg.rossi@gmail.com)
-[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:rdrg_rossio@hotmail.com)
+[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:rdrg_rossi@hotmail.com)
 
 &nbsp;
 
@@ -43,7 +43,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javaee_glassfish/javaee_glassfish-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_awslambda/amazon_awslambda-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
