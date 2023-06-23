@@ -21,8 +21,8 @@ You can use the website to generate badges: https://shields.io/
 
 - 👨‍🎓 Graduated in Analysis and Systems Development;
 - 🎓 Postgraduate specialization in Java technology;
-- 💼 I’m Software Architect on [Senior Sistemas](https://www.senior.com.br/);
-- 🌱 I’m currently learning microservices, API's integration and English;
+- 💼 I’m Software Architect at [GFT Group](https://www.gft.com/);
+- 🌱 I’m currently learning NextJS, Flutter, API's integration and English;
 - 💬 Ask me about anything, I am happy to help;
 
 **Languages and Tools:** 
